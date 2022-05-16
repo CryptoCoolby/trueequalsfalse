@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.md": "markdown",
+    "*.json": "json",
+    "*": "plaintext",
+  }
+}
