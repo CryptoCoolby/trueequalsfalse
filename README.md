@@ -1,6 +1,4 @@
-Software engineers unite
-
-Lets fix humanity
+Lets fix the mind
 
 The nature of the algorythm:
 <h1>Reality can only be explained with bullshit.</h1>
